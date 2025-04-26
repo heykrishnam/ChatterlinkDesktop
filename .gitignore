@@ -1,0 +1,20 @@
+# Ignore build directories
+bin/
+obj/
+
+# Ignore Visual Studio related files
+.vs/
+.idea/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+
+# Ignore backup and temporary files
+*.bak
+*.tmp
+*.swp
+
+# Ignore the NuGet packages folder (if using NuGet packages)
+packages/

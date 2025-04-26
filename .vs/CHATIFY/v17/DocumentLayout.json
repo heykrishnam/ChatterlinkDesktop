@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CHAITFY\\CHATIFY - Original\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|D:\\CHAITFY\\CHATIFY - Original\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|D:\\CHAITFY\\CHATIFY - Original\\formchatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:formchatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|d:\\chaitfy\\chatify - original\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|D:\\CHAITFY\\CHATIFY - Original\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|D:\\CHAITFY\\CHATIFY - Original\\formchatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:formchatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|D:\\CHAITFY\\CHATIFY - Original\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|D:\\CHAITFY\\CHATIFY - Original\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CHATIFY||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|D:\\CHAITFY\\CHATIFY - Original\\formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|D:\\CHAITFY\\CHATIFY - Original\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCFBFED-DBC0-496C-88F5-E783ECA214A3}|CHATIFY.csproj|solutionrelative:formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:04:08.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormChatWindow.cs",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\FormChatWindow.cs",
+              "RelativeDocumentMoniker": "FormChatWindow.cs",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\FormChatWindow.cs",
+              "RelativeToolTip": "FormChatWindow.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAywOoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:24:55.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\FormLogin.cs",
+              "RelativeToolTip": "FormLogin.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAALoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:58:12.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormChatWindow.cs [Design]",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\FormChatWindow.cs",
+              "RelativeDocumentMoniker": "FormChatWindow.cs",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\FormChatWindow.cs [Design]",
+              "RelativeToolTip": "FormChatWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:06:20.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\Users\\senga\\Desktop\\CHAITFY\\CHATIFY - Original\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:56:51.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\FormRegister.cs [Design]",
+              "RelativeToolTip": "FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:55:00.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\FormRegister.cs",
+              "RelativeToolTip": "FormRegister.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAmwPYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:11:01.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CHATIFY",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\CHATIFY.csproj",
+              "RelativeDocumentMoniker": "CHATIFY.csproj",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\CHATIFY.csproj",
+              "RelativeToolTip": "CHATIFY.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-02T18:15:50.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormRegister.Designer.cs",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\FormRegister.Designer.cs",
+              "RelativeDocumentMoniker": "FormRegister.Designer.cs",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\FormRegister.Designer.cs",
+              "RelativeToolTip": "FormRegister.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:38:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "D:\\CHAITFY\\CHATIFY - Original\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "FormLogin.Designer.cs",
+              "ToolTip": "D:\\CHAITFY\\CHATIFY - Original\\FormLogin.Designer.cs",
+              "RelativeToolTip": "FormLogin.Designer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAgwK4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:37:40.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

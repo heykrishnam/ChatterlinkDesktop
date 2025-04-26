@@ -1,0 +1,120 @@
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\CHATIFY.exe.config
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\CHATIFY.exe
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\CHATIFY.pdb
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\FireSharp.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Newtonsoft.Json.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Newtonsoft.Json.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.csproj.App.config
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.csproj.AssemblyReference.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.FormRegister.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.Properties.Resources.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.csproj.GenerateResource.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.csproj.CoreCompileInputs.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.csproj.Up2Date
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.exe
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.pdb
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\Firebase.Auth.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.FormLogin.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY\obj\Debug\CHATIFY.FormChatWindow.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\CHATIFY.exe.config
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\CHATIFY.exe
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\CHATIFY.pdb
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Firebase.Auth.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\FireSharp.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.csproj.App.config
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.csproj.AssemblyReference.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.FormChatWindow.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.FormLogin.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.FormRegister.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.Properties.Resources.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.csproj.GenerateResource.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.csproj.CoreCompileInputs.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.csproj.Up2Date
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.exe
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Copy\obj\Debug\CHATIFY.pdb
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\CHATIFY.exe.config
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\CHATIFY.exe
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\CHATIFY.pdb
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Firebase.Auth.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\FireSharp.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Newtonsoft.Json.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\Newtonsoft.Json.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.App.config
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.AssemblyReference.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.FormChatWindow.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.FormLogin.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.FormRegister.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.Properties.Resources.resources
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.GenerateResource.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.CoreCompileInputs.cache
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.Up2Date
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.exe
+C:\Users\senga\Desktop\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.pdb
+D:\CHAITFY\CHATIFY - Original\bin\Debug\CHATIFY.exe.config
+D:\CHAITFY\CHATIFY - Original\bin\Debug\CHATIFY.exe
+D:\CHAITFY\CHATIFY - Original\bin\Debug\CHATIFY.pdb
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Firebase.Auth.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\FireSharp.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Newtonsoft.Json.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\System.Net.Http.Extensions.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\System.Net.Http.Primitives.dll
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\CHAITFY\CHATIFY - Original\bin\Debug\Newtonsoft.Json.xml
+D:\CHAITFY\CHATIFY - Original\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\CHAITFY\CHATIFY - Original\bin\Debug\System.Net.Http.Extensions.xml
+D:\CHAITFY\CHATIFY - Original\bin\Debug\System.Net.Http.Primitives.xml
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.App.config
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.AssemblyReference.cache
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.FormChatWindow.resources
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.FormLogin.resources
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.FormRegister.resources
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.Properties.Resources.resources
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.GenerateResource.cache
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.CoreCompileInputs.cache
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.csproj.Up2Date
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.exe
+D:\CHAITFY\CHATIFY - Original\obj\Debug\CHATIFY.pdb
